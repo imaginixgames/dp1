@@ -1,0 +1,15 @@
+@import 'bootstrap';
+@import 'bootstrap-sprockets"';
+@import 'bootstrap';
+@import 'font-awesome';
+@import '*';
+@import 'mdb';
+@import "mdb_sass/mdb.scss";
+*= require main
+*= require_self
+/*
+ *= require_tree .
+ *= require_self
+ */
+
+
